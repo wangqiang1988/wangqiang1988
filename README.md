@@ -1,6 +1,6 @@
-### Hi there 👋
 # 这里是wangqiang1988的一些记录
-
+- 🔭 我是一名网络工程师
+- ⚡ 我喜欢[跑步](https://wangqiang1988.github.io/running_page/)
 <!--
 **wangqiang1988/wangqiang1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
