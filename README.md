@@ -1,4 +1,4 @@
-# 这里是wangqiang1988的一些记录
+#这里是wangqiang1988的博客库
 - 🔭 我是一名网络工程师
 - ⚡ 我喜欢[跑步](https://wangqiang1988.github.io/running_page/),游戏，钓鱼，电影，骑车，网上瞎看和各种新鲜的事物
 <!--
