@@ -1,6 +1,6 @@
 # 这里是wangqiang1988的blog库
 - 🔭 我在北京，是一位网络工程师，工作中涉及的内容较多，技术方面也较为广泛。工作中，windows server、linux、python、vue都有涉及，网络作为本职工作主要负责企业网方向，主要涉及设备juniper、h3c、cisco
-- ⚡ 我喜欢[跑步](https://wangqiang1988.github.io/running_page/),游戏，钓鱼（路亚、小物），电影（动作、英美短剧），骑车（通勤），网上瞎看和各种新鲜的事物 
+- ⚡ 我喜欢[跑步](https://wangqiang1988.github.io/running_page/),游戏，钓鱼（路亚、小物），电影（动作、英美短剧），骑车（通勤），网上瞎看
 - 👯 [这里](https://wangqiang1988.github.io/)是我的博客
 
 <!--
